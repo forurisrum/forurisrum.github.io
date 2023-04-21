@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://forurisrum.github.io/sitemap.xml
